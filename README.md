@@ -1,7 +1,5 @@
 ## Alo 👋
-## 90% prompt, 10% prayers; 🔮
-## my career is cooked; 📉
-## return degree; 🍟
+## im cooked;
 
 <!--
 **llalb/llalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
